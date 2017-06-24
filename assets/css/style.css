@@ -50,6 +50,12 @@ code{
 	padding:0.66em;
 }
 
+code.inline{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0.1em 0.67em;
+}
+
 summary{
     padding-top:0.66em;
     cursor:pointer;
