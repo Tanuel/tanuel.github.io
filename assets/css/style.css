@@ -64,3 +64,15 @@ summary{
 .text-center{
 	text-align:center;
 }
+.navigation{
+    border:1px solid #ddd;
+    background:#eee;
+    display:inline-block;
+    border-radius:10px;
+    padding:10px;
+}
+
+.navigation ul{
+    margin:2px 0 0;
+    padding-left:20px
+}
